@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SourceCodePage</string>
+    <string-array name="list">
+        <item>
+            http://
+        </item>
+        <item>
+            https://
+        </item>
+    </string-array>
+</resources>
